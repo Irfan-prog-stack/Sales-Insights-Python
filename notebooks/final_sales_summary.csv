@@ -1,0 +1,7 @@
+OrderID,Region,Product,Quantity,Price,TotalSale,Profit,SaleLevel,DiscountedPrice,Category,OrderDate,Order_Month,Month_Name,Month
+1001,North,Keyboard,10,50,500,100.0,Low,45.0,Typing,2024-08-22,8,Aug,Aug
+1002,South,Mouse,5,30,150,30.0,Low,27.0,Screen,2024-09-15,9,Sep,Sep
+1003,East,Monitor,12,200,2400,480.0,High,180.0,Controller,2024-01-18,1,Jan,Jan
+1004,North,Mouse,7,30,210,42.0,Low,27.0,Typing,2024-12-15,12,Dec,Dec
+1005,West,Keyboard,15,50,750,150.0,High,45.0,Controller,2024-08-09,8,Aug,Aug
+1006,South,Monitor,6,200,1200,240.0,High,180.0,Typing,2024-11-25,11,Nov,Nov
