@@ -61,9 +61,48 @@ It demonstrates how raw data can be cleaned, transformed, and visualized before 
 ### 📈 Example Visuals
 | Sales Trend | Profit vs Discount | Top Products |
 |--------------|--------------------|---------------|
-| ![Total Sale By Region]) | ![Profit vs Total Sale] | ![Top Product By Total Sale] |
-(image/Type_Plot_Combine.PNG)
+| ![Sales Trend](image/sales_trend_plot.png) | ![Profit vs Total Sale](image/profit_vs_totalsale.png) | ![Top Products](image/top_product_sales.png) |
 
 ---
 
 ### 📦 Folder Structure
+
+data/ → Raw & cleaned CSV files
+notebooks/ → Jupyter notebooks for each stage
+images/ → Generated visualizations
+README.md → Project summary
+requirements.txt → Python dependencies
+
+---
+
+### 🚀 How to Run This Project
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Irfan-prog-stack/Sales-Insights-Python.git
+
+2. Navigate into the folder:
+   cd Sales-Insights-Python
+   
+4. Install dependencies:
+   pip install -r requirements.txt
+
+5. Open the Jupyter notebook:
+   jupyter notebook notebooks/sales_analysis.ipynb
+
+---
+
+💡 Key Learnings
+
+- Hands-on experience with data wrangling using pandas
+- Generating business insights programmatically
+- Creating analysis-ready data for BI tools
+- Building clean, reproducible data pipelines
+
+---
+
+👤 Author
+
+Irfan Arifin
+📍 Cyberjaya, Malaysia
+📧 irfanarifin1794@gmail.com | www.linkedin.com/in/irfan-arifin-9206a922b
+
