@@ -59,9 +59,9 @@ It demonstrates how raw data can be cleaned, transformed, and visualized before 
 ---
 
 ### 📈 Example Visuals
-| Sales Trend | Profit vs Discount | Top Products |
+| Sales Trend | Profit vs Total Sale | Top Products |
 |--------------|--------------------|---------------|
-| ![Sales Trend](image/sales_trend_plot.png) | ![Profit vs Total Sale](image/profit_vs_totalsale.png) | ![Top Products](image/top_product_sales.png) |
+| ![Sales Trend](image/sales_trend_plot.PNG) | ![Profit vs Total Sale](image/profit_vs_totalsale.PNG) | ![Top Products](image/top_product.PNG) |
 
 ---
 
